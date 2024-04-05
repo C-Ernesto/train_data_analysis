@@ -10,4 +10,4 @@ One column, named 'class', is actually the target.  This column contains an inte
 
 1: An accident of type '1' occurred during this shift
 
-2. An accident of type '2' occurred during this shift
+2: An accident of type '2' occurred during this shift
